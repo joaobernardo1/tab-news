@@ -1,0 +1,29 @@
+{
+  "name": "tab-news",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/joaobernardo1/tab-news#readme",
+  "bugs": {
+    "url": "https://github.com/joaobernardo1/tab-news/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaobernardo1/tab-news.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "25.0.3",
+    "@types/react": "19.2.7"
+  }
+}
